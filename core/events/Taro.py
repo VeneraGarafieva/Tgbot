@@ -1,0 +1,98 @@
+senior_arcana = [
+    dict(name="The Fool", advise="Осторожно – наивность сегодня может оказаться для вас опасной.", picture="https://astrometa.ru/images/winds/taro/shut.jpg"),
+    dict(name="The Magician", advise="Не бойтесь заводить новые знакомства и осваивать что-то новое.", picture="https://astrometa.ru/images/winds/taro/mag.jpg"),
+    dict(name="The High Priestess", advise="Не раскрывайте свои замыслы окружающим.", picture="https://astrometa.ru/images/winds/taro/zhritsa.jpg"),
+    dict(name="The Empress", advise="Проявите практичность и трудолюбие, но не забывайте об отдыхе.", picture="https://astrometa.ru/images/winds/taro/imperatritsa.jpg"),
+    dict(name="The Emperor", advise="Проявите лидерские качества, управляйте ситуацией.", picture="https://astrometa.ru/images/winds/taro/imperator.jpg"),
+    dict(name="The Hierophant", advise="Прислушайтесь к совету опытного человека.", picture="https://astrometa.ru/images/winds/taro/ierofant.jpg"),
+    dict(name="The Lovers", advise="Раскройте свои чувства.", picture="https://astrometa.ru/images/winds/taro/vlyublennye.jpg"),
+    dict(name="The Chariot", advise="Не бойтесь изменений в ситуации", picture="https://astrometa.ru/images/winds/taro/kolesnitsa.jpg"),
+    dict(name="Strenght", advise="Проявите характер и не уступайте.", picture="https://astrometa.ru/images/winds/taro/sila.jpg"),
+    dict(name="The Hermit", advise="Продумайте еще раз свои действия и ни с кем не советуйтесь.", picture="https://astrometa.ru/images/winds/taro/otshelnik.jpg"),
+    dict(name="Wheel of Fortune", advise="Не упустите счастливую возможность.", picture="https://astrometa.ru/images/winds/taro/koleso-fortuny.jpg"),
+    dict(name="Death", advise="Примите неизбежное.", picture="https://astrometa.ru/images/winds/taro/smert.jpg"),
+    dict(name="The Hanged Man", advise="Посмотрите на ситуацию с необычной точки зрения.", picture="https://astrometa.ru/images/winds/taro/poveshennyi.jpg"),
+    dict(name="Justice", advise="Проявите благоразумие и не верьте слухам.", picture="https://astrometa.ru/images/winds/taro/spravedlivost.jpg"),
+    dict(name="The Devil", advise="Не поддавайтесь злу, держитесь подальше от сомнительных мероприятий.", picture="https://astrometa.ru/images/winds/taro/dyavol.jpg"),
+    dict(name="Temperance", advise="Проявите спокойствие, рассудительность", picture="https://astrometa.ru/images/winds/taro/umerennost.jpg"),
+    dict(name="The Tower", advise="Не пытайтесь удержать то, что уже разрушено.", picture="https://astrometa.ru/images/winds/taro/bashnya.jpg"),
+    dict(name="The Star", advise="Доверьтесь интуиции и не бойтесь действовать нестандартно.", picture="https://astrometa.ru/images/winds/taro/zvezda.jpg"),
+    dict(name="The Moon", advise="Сделайте паузу и погрузитесь в себя.", picture="https://astrometa.ru/images/winds/taro/luna.jpg"),
+    dict(name="The Sun", advise="Проявите себя и не скрывайте свои успехи и таланты.", picture="https://astrometa.ru/images/winds/taro/solntse.jpg"),
+    dict(name="Judgement", advise="Проявите характер и не бойтесь разрывать отношения, которые давно изжили себя.", picture="https://astrometa.ru/images/winds/taro/strashnyi-sud.jpg"),
+    dict(name="The World", advise="Проявите характер творческие способности и самостоятельность.", picture="https://astrometa.ru/images/winds/taro/mir.jpg"),
+]
+
+taro_wands = [
+    dict(name="Ace of Wands", advise="Настало время переходить от мечтаний к действиям.", picture="https://astrometa.ru/images/winds/taro/tuz-zhezlov.jpg"),
+    dict(name="King of Wands", advise="Не бойтесь рисковать и использовать новые возможности", picture="https://astrometa.ru/images/winds/taro/korol-zhezlov.jpg"),
+    dict(name="Queen of Wands", advise="Не бойтесь рисковать и использовать новые возможности.", picture="https://astrometa.ru/images/winds/taro/koroleva-zhezlov.jpg"),
+    dict(name="Knight of Wands", advise="Не бойтесь рисковать и использовать новые возможности.", picture="https://astrometa.ru/images/winds/taro/rytsar-zhezlov.jpg"),
+    dict(name="Page of Wands", advise="Не переоценивайте свои возможности и не хвастайтесь тем, чего еще не достигли.", picture="https://astrometa.ru/images/winds/taro/pazh-zhezlov.jpg"),
+    dict(name="Two of Wands", advise="Настало время переходить от мечтаний к действиям.", picture="https://astrometa.ru/images/winds/taro/dvoika-zhezlov.jpg"),
+    dict(name="Three of Wands", advise="	Настало время переходить от мечтаний к действиям.", picture="https://astrometa.ru/images/winds/taro/troika-zhezlov.jpg"),
+    dict(name="Four of Wands", advise="Позвольте себе расслабиться.", picture="https://astrometa.ru/images/winds/taro/chetverka-zhezlov.jpg"),
+    dict(name="Five of Wands", advise="Не расслабляйтесь и проявите характер.", picture="https://astrometa.ru/images/winds/taro/pyaterka-zhezlov.jpg"),
+    dict(name="Six of Wands", advise="Не расслабляйтесь и проявите характер.", picture="https://astrometa.ru/images/winds/taro/shesterka-zhezlov.jpg"),
+    dict(name="Seven of Wands", advise="Пора расставить все по местам.", picture="https://astrometa.ru/images/winds/taro/semerka-zhezlov.jpg"),
+    dict(name="Eight of Wands", advise="Действуйте активно.", picture="https://astrometa.ru/images/winds/taro/vosmerka-zhezlov.jpg"),
+    dict(name="Nine of Wands", advise="Пора расширять свой кругозор", picture="https://astrometa.ru/images/winds/taro/devyatka-zhezlov.jpg"),
+    dict(name="Ten of Wands", advise="Избегайте чрезмерной работы.",
+         picture="https://astrometa.ru/images/winds/taro/desyatka-zhezlov.jpg"),
+
+]
+
+taro_cups = [
+    dict(name="Ace of Cups", advise="Откройтесь новым чувствам.", picture="https://astrometa.ru/images/winds/taro/tuz-kubkov.jpg"),
+    dict(name="King of Cups", advise="Проявите доброту и участливость.", picture="https://astrometa.ru/images/winds/taro/korol-kubkov.jpg"),
+    dict(name="Queen of Cups", advise="	Проявите нежность и доброжелательность.", picture="https://astrometa.ru/images/winds/taro/koroleva-kubkov.jpg"),
+    dict(name="Knight of Cups", advise="Доверьтесь чувствам.", picture="https://astrometa.ru/images/winds/taro/rytsar-kubkov.jpg"),
+    dict(name="Page of Cups", advise="Не пропустите важную информацию.", picture="https://astrometa.ru/images/winds/taro/pazh-kubkov.jpg"),
+    dict(name="Two of Cups", advise="Откройтесь новым чувствам.", picture="https://astrometa.ru/images/winds/taro/dvoika-kubkov.jpg"),
+    dict(name="Three of Cups", advise="Действуйте в компании единомышленников.", picture="https://astrometa.ru/images/winds/taro/troika-kubkov.jpg"),
+    dict(name="Four of Cups", advise="Не предпринимайте поспешных действий.", picture="https://astrometa.ru/images/winds/taro/chetverka-kubkov.jpg"),
+    dict(name="Five of Cups", advise="Не идите на поводу у отрицательных эмоций.", picture="https://astrometa.ru/images/winds/taro/pyaterka-kubkov.jpg"),
+    dict(name="Six of Cups", advise="Обратитесь к прошлому.", picture="https://astrometa.ru/images/winds/taro/shesterka-kubkov.jpg"),
+    dict(name="Seven of Cups", advise="Не бойтесь мечтать и верить в лучшее.", picture="https://astrometa.ru/images/winds/taro/semerka-kubkov.jpg"),
+    dict(name="Eight of Cups", advise="Не бойтесь менять решения и кардинально менять свою жизнь.", picture="https://astrometa.ru/images/winds/taro/vosmerka-kubkov.jpg"),
+    dict(name="Nine of Cups", advise="Не отказывайтесь от удовольствий.", picture="https://astrometa.ru/images/winds/taro/devyatka-kubkov.jpg"),
+    dict(name="Ten of Cups", advise="Не отказывайтесь от удовольствий и разделите их с близкими.",
+         picture="https://astrometa.ru/images/winds/taro/desyatka-kubkov.jpg"),
+]
+
+taro_swords = [
+    dict(name="Ace of Swords", advise="Держите все под контролем и не подвергайтесь необдуманному риску.", picture="https://astrometa.ru/images/winds/taro/tuz-mechei.jpg"),
+    dict(name="King of Swords", advise="Берегитесь опасных и агрессивных людей.", picture="https://astrometa.ru/images/winds/taro/korol-mechei.jpg"),
+    dict(name="Queen of Swords", advise="Проявите терпение и благоразумие в общении с женщинами.", picture="https://astrometa.ru/images/winds/taro/koroleva-mechei.jpg"),
+    dict(name="Knight of Swords", advise="Не бойтесь кардинально менять свои планы.", picture="https://astrometa.ru/images/winds/taro/rytsar-mechei.jpg"),
+    dict(name="Page of Swords", advise="Проверьте полученную информацию.", picture="https://astrometa.ru/images/winds/taro/pazh-mechei.jpg"),
+    dict(name="Two of Swords", advise="Не погружайтесь слишком в негативные думы.", picture="https://astrometa.ru/images/winds/taro/dvoika-mechei.jpg"),
+    dict(name="Three of Swords", advise="Придется действовать по разуму, вопреки чувствам.", picture="https://astrometa.ru/images/winds/taro/troika-mechei.jpg"),
+    dict(name="Four of Swords", advise="Не спешите и не беритесь за несколько дел сразу.", picture="https://astrometa.ru/images/winds/taro/chetverka-mechei.jpg"),
+    dict(name="Five of Swords", advise="Возможно обострение вражды.", picture="https://astrometa.ru/images/winds/taro/pyaterka-mechei.jpg"),
+    dict(name="Six of Swords", advise="Не рассчитывайте на других людей.", picture="https://astrometa.ru/images/winds/taro/shesterka-mechei.jpg"),
+    dict(name="Seven of Swords", advise="Не принимайте непродуманных решений и проявите осторожность.", picture="https://astrometa.ru/images/winds/taro/semerka-mechei.jpg"),
+    dict(name="Eight of Swords", advise="	Не принимайте непродуманных решений и проявите осторожность.", picture="https://astrometa.ru/images/winds/taro/vosmerka-mechei.jpg"),
+    dict(name="Nine of Swords", advise="Избегайте поспешных решений и паники.", picture="https://astrometa.ru/images/winds/taro/devyatka-mechei.jpg"),
+    dict(name="Ten of Swords", advise="Избегайте агрессивности и опасности", picture="https://astrometa.ru/images/winds/taro/desyatka-mechei.jpg"),
+]
+
+taro_pentacles = [
+    dict(name="Ace of Pentacles", advise="Используйте полученный шанс.", picture="https://astrometa.ru/images/winds/taro/tuz-pentaklei.jpg"),
+    dict(name="King of Pentacles", advise="Берегитесь тщеславия.", picture="https://astrometa.ru/images/winds/taro/korol-pentaklei.jpg"),
+    dict(name="Queen of Pentacles", advise="Проявите терпение и благоразумие, не бойтесь учиться.", picture="https://astrometa.ru/images/winds/taro/koroleva-pentaklei.jpg"),
+    dict(name="Knight of Pentacles", advise="Проявите внимательность, вас могут обмануть.", picture="https://astrometa.ru/images/winds/taro/rytsar-pentaklei.jpg"),
+    dict(name="Page of Pentacles", advise="Проявите внимательность, воспользуйтесь новыми знаниями.", picture="https://astrometa.ru/images/winds/taro/pazh-pentaklei.jpg"),
+    dict(name="Two of Pentacles", advise="Не спешите принимать решения.", picture="https://astrometa.ru/images/winds/taro/dvoika-pentaklei.jpg"),
+    dict(name="Three of Pentacles", advise="Пользуйтесь благоприятной возможностью.", picture="https://astrometa.ru/images/winds/taro/troika-pentaklei.jpg"),
+    dict(name="Four of Pentacles", advise="Не замыкайтесь в себе, ищите выход.", picture="https://astrometa.ru/images/winds/taro/chetverka-pentaklei.jpg"),
+    dict(name="Five of Pentacles", advise="	Проявите внимательность и не совершайте ошибки.", picture="https://astrometa.ru/images/winds/taro/pyaterka-pentaklei.jpg"),
+    dict(name="Six of Pentacles", advise="Пользуйтесь благоприятной возможностью.", picture="https://astrometa.ru/images/winds/taro/shesterka-pentaklei.jpg"),
+    dict(name="Seven of Pentacles", advise="Проявите внимательность, терпение и не совершайте ошибки.", picture="https://astrometa.ru/images/winds/taro/semerka-pentaklei.jpg"),
+    dict(name="Eight of Pentacles", advise="Проявите любознательность и ищите новые возможности.", picture="https://astrometa.ru/images/winds/taro/vosmerka-pentaklei.jpg"),
+    dict(name="Nine of Pentacles", advise="Не ограничивайте себя ни в чем.", picture="https://astrometa.ru/images/winds/taro/devyatka-pentaklei.jpg"),
+    dict(name="Ten of Pentacles", advise="Прислушайтесь к мудрому совету и опыту прошлого.", picture="https://astrometa.ru/images/winds/taro/desyatka-pentaklei.jpg"),
+]
+
+
+taro_deck = senior_arcana + taro_wands + taro_cups + taro_swords + taro_pentacles
